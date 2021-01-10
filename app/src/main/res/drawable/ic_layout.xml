@@ -1,0 +1,56 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="376dp"
+    android:height="722dp"
+    android:viewportWidth="376"
+    android:viewportHeight="722">
+  <group>
+    <clip-path
+        android:pathData="M0,0h376v722h-376z"/>
+    <path
+        android:pathData="M0,0h376v722h-376z"
+        android:fillColor="#fff"/>
+    <group>
+      <clip-path
+          android:pathData="M0,14h376v697h-376z"/>
+      <group>
+        <clip-path
+            android:pathData="M0,152h376v368h-376z"/>
+        <path
+            android:pathData="M-19,131h415v410h-415z"
+            android:strokeAlpha="0.42"
+            android:fillAlpha="0.42"/>
+      </group>
+      <path
+          android:pathData="M188,722.5a4.5,0.5 0,1 0,9 0a4.5,0.5 0,1 0,-9 0z"
+          android:strokeAlpha="0.55"
+          android:strokeWidth="1"
+          android:fillColor="#fff"
+          android:strokeColor="#00000000"
+          android:fillAlpha="0.55"/>
+    </group>
+    <path
+        android:pathData="M444.571,-104.158a101,336.5 65,1 0,-609.945 284.422a101,336.5 65,1 0,609.945 -284.422z"
+        android:strokeAlpha="0.1"
+        android:fillColor="#244e5c"
+        android:fillAlpha="0.1"/>
+    <path
+        android:pathData="M444.571,-104.158a101,336.5 65,1 0,-609.945 284.422a101,336.5 65,1 0,609.945 -284.422z"
+        android:strokeAlpha="0.31"
+        android:fillColor="#244e5c"
+        android:fillAlpha="0.31"/>
+    <path
+        android:pathData="M1.665,748.501a84.5,224.5 76,1 0,435.663 -108.623a84.5,224.5 76,1 0,-435.663 108.623z"
+        android:strokeAlpha="0.24"
+        android:strokeWidth="1"
+        android:fillColor="#244e5c"
+        android:strokeColor="#00000000"
+        android:fillAlpha="0.24"/>
+    <path
+        android:pathData="M2.151,748.38a84,224 76,1 0,434.692 -108.381a84,224 76,1 0,-434.692 108.381z"
+        android:strokeAlpha="0.24"
+        android:strokeWidth="1"
+        android:fillColor="#00000000"
+        android:strokeColor="#707070"
+        android:fillAlpha="0.24"/>
+  </group>
+</vector>

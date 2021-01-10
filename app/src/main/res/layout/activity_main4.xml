@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal|center_vertical"
+    android:background="@drawable/consultation"
+    android:orientation="vertical"
+    tools:context=".MainActivity4">
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="نوع الإستشارة"
+        android:textAlignment="center"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="wrap_content"
+        android:layout_height="85dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="#61FFFFFF"
+        android:text="إستشارة قاننية"
+        android:textColor="#393333"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="wrap_content"
+        android:layout_height="85dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="#61FFFFFF"
+        android:text="إستشارة أسرية"
+        android:textColor="#393333"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="wrap_content"
+        android:layout_height="85dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="#72262C5E"
+        android:backgroundTint="#FFFFFF"
+        android:text="إستشارة عقارية"
+        android:textColor="#393333"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="wrap_content"
+        android:layout_height="85dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="#61FFFFFF"
+        android:text="إستشارة طبية"
+        android:textColor="#393333"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="wrap_content"
+        android:layout_height="85dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="#60FFFFFF"
+        android:text="إستشارات أخرى"
+        android:textColor="#393333"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

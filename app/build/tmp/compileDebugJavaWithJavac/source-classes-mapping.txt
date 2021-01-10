@@ -1,0 +1,27 @@
+com/example/onlinelawyer/Adapter.java
+ com.example.onlinelawyer.Adapter
+ com.example.onlinelawyer.Adapter$ViewHolder
+com/example/onlinelawyer/Lawyerslist.java
+ com.example.onlinelawyer.Lawyerslist
+com/example/onlinelawyer/BuildConfig.java
+ com.example.onlinelawyer.BuildConfig
+com/example/onlinelawyer/MainActivity3.java
+ com.example.onlinelawyer.MainActivity3
+com/example/onlinelawyer/MainActivity4.java
+ com.example.onlinelawyer.MainActivity4
+com/example/onlinelawyer/MainActivity7.java
+ com.example.onlinelawyer.MainActivity7
+com/example/onlinelawyer/MainActivity2.java
+ com.example.onlinelawyer.MainActivity2
+com/example/onlinelawyer/MainActivity5.java
+ com.example.onlinelawyer.MainActivity5
+com/example/onlinelawyer/MainActivity6.java
+ com.example.onlinelawyer.MainActivity6
+com/example/onlinelawyer/MainActivity.java
+ com.example.onlinelawyer.MainActivity
+ com.example.onlinelawyer.MainActivity$1
+ com.example.onlinelawyer.MainActivity$2
+ com.example.onlinelawyer.MainActivity$3
+ com.example.onlinelawyer.MainActivity$4
+ com.example.onlinelawyer.MainActivity$5
+ com.example.onlinelawyer.MainActivity$6
